@@ -1,4 +1,4 @@
-# RL_extractive_agent
+# Reinforcement Learning Extractive Agent 
 We implement a reinforcement learning agent for extractive summarization. 
 
 Dataset: CNN/DailyMail
